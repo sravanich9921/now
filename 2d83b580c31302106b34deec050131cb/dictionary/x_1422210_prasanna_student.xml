@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e60b6a88c3d302106b34deec0501316c" label="Student" max_length="40" name="x_1422210_prasanna_student" type="collection">
+        <element choice="1" label="Remarks" max_length="40" name="remarks" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Average" sequence="1" value="Average"/>
+                <element inactive_on_update="false" label="Good" sequence="0" value="Good"/>
+                <element inactive_on_update="false" label="Bad" sequence="2" value="Bad"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element label="Class" max_length="40" name="class" type="integer"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

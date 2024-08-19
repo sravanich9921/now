@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="remarks" label="Remarks" language="en" table="x_1422210_prasanna_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>remarks</element>
+            <help/>
+            <hint/>
+            <label>Remarks</label>
+            <language>en</language>
+            <name>x_1422210_prasanna_student</name>
+            <plural>Remarks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-05 06:20:43</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Remarks</sys_name>
+            <sys_package display_value="Prasanna" source="x_1422210_prasanna">2d83b580c31302106b34deec050131cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Prasanna">2d83b580c31302106b34deec050131cb</sys_scope>
+            <sys_update_name>sys_documentation_x_1422210_prasanna_student_remarks_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-05 06:20:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
